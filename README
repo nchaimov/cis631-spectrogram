@@ -1,0 +1,8 @@
+time it took to run imgEncode on rain_nellie.png (4 minutes!)
+
+[~/cis631/hw/project2/code/imageEncoder] [sydes@mist] [12:55 AM]
+$ time ./imgEncode rain_nellie.png 
+real	4m48.828s
+user	4m48.082s
+sys	0m0.092s
+
